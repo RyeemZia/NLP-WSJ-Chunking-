@@ -1,0 +1,12 @@
+rz1335_Assigment5.txt
+
+
+I did previous POS, POS and BIO as feature tags
+
+I got a score of 11/12 on grade scope 
+
+I will try to add some extra features to get a higher score
+
+
+
+
